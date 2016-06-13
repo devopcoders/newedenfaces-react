@@ -12,4 +12,4 @@
   * [Site I built and put on Heroku here](https://faces-react.herokuapp.com/)
   
   
-![Screenshot](https://github.com/devopcoders/devopscoder/blob/master/devopscoder.fw.png "Screenshot")
+![Screenshot](https://github.com/devopcoders/newedenfaces-react/blob/master/screenshot16.jpg "Screenshot")
