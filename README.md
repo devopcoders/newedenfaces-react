@@ -6,8 +6,7 @@
   - ReactJS
   - MongoDB
   - Flux
-  - CSS
-  - Bootstrap
+  
   
   * [Site on Heroku here](https://faces-react.herokuapp.com/)
   
